@@ -1,0 +1,24 @@
+.plugin{background:#f0f0f0;border:1px dashed;padding:20px;}
+
+.fbtitle{font-size:2em;font-family:Times New Roman;font-style:italic; clear:both; display:block;padding:10px 0 0 0;}
+
+.skfield{font-weight:bold;}
+
+.skf{float:left; width:30%; text-align:right; font-weight:bold;}
+
+.ski{/*float:left; width:65%; text-align:left; padding-left:20px;*/}
+
+.fbclear{clear:both; height:25px;}
+
+a.fblink, a:visited.fblink{color:#FF6600;}
+
+a:hover.fblink{color:#CCC;}
+
+a.qtip, a:visited.qtip{color:#FF6600;}
+
+a:hover.qtip{color:#CCC;}
+
+.ui-widget-content a.qtip, .ui-widget-content a:visited.qtip{color:#FF6600; text-decoration:none; font-size:120%; font-weight:bold;}
+.ui-widget-content a:hover.qtip{color: #CCC; text-decoration:underline; font-size:120%; font-weight:bold;}
+
+/* simple css-based tooltip */
